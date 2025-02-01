@@ -1,0 +1,25 @@
+{
+  "name": "x---ui",
+  "version": "1.0.0",
+  "description": "X-UI is a modern, responsive social media UI built with Tailwind CSS. It features a clean design, dark/light mode, reusable components, and full responsiveness. Optimized for performance and customization, it's perfect for next-gen social platforms. Open-source and ready for contributions! 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddhant-78/X---UI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Siddhant-78/X---UI/issues"
+  },
+  "homepage": "https://github.com/Siddhant-78/X---UI#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
